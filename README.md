@@ -1,5 +1,5 @@
 
-# Part 1: Aggregator
+Aggregator
 
 Parse web pages and retriev only the text from html
 
